@@ -5,7 +5,7 @@ It includes steps for generating ONNX models, building TensorRT engines, and con
 The project currently leverages FP16 as the default pipeline. INT8/INT4 weight-only quantization will offer reduced latency.
 
 # Model
-  * [Model] BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models <br>
+  * BLIP-2<br>Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models <br>
   [Paper](https://arxiv.org/abs/2301.12597)
 
 # Prerequisites:
